@@ -1,0 +1,13 @@
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Data.deps.json
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Data.dll
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Data.pdb
+C:\WORKSPACE\SmartHome\SmartHome.Data\obj\Debug\netcoreapp3.0\SmartHome.Data.csprojAssemblyReference.cache
+C:\WORKSPACE\SmartHome\SmartHome.Data\obj\Debug\netcoreapp3.0\SmartHome.Data.AssemblyInfoInputs.cache
+C:\WORKSPACE\SmartHome\SmartHome.Data\obj\Debug\netcoreapp3.0\SmartHome.Data.AssemblyInfo.cs
+C:\WORKSPACE\SmartHome\SmartHome.Data\obj\Debug\netcoreapp3.0\SmartHome.Data.dll
+C:\WORKSPACE\SmartHome\SmartHome.Data\obj\Debug\netcoreapp3.0\SmartHome.Data.pdb
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Model.dll
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Model.pdb
+C:\WORKSPACE\SmartHome\SmartHome.Data\obj\Debug\netcoreapp3.0\SmartHome.Data.csproj.CopyComplete
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Data.runtimeconfig.json
+C:\WORKSPACE\SmartHome\SmartHome.Data\bin\Debug\netcoreapp3.0\SmartHome.Data.runtimeconfig.dev.json

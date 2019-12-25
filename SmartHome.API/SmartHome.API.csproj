@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartHome.Data\SmartHome.Data.csproj" />
+    <ProjectReference Include="..\SmartHome.Model\SmartHome.Model.csproj" />
+  </ItemGroup>
+
+</Project>

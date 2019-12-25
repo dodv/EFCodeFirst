@@ -1,0 +1,7 @@
+C:\WORKSPACE\SmartHome\SmartHome.Model\bin\Debug\netcoreapp3.0\SmartHome.Model.deps.json
+C:\WORKSPACE\SmartHome\SmartHome.Model\bin\Debug\netcoreapp3.0\SmartHome.Model.dll
+C:\WORKSPACE\SmartHome\SmartHome.Model\bin\Debug\netcoreapp3.0\SmartHome.Model.pdb
+C:\WORKSPACE\SmartHome\SmartHome.Model\obj\Debug\netcoreapp3.0\SmartHome.Model.AssemblyInfoInputs.cache
+C:\WORKSPACE\SmartHome\SmartHome.Model\obj\Debug\netcoreapp3.0\SmartHome.Model.AssemblyInfo.cs
+C:\WORKSPACE\SmartHome\SmartHome.Model\obj\Debug\netcoreapp3.0\SmartHome.Model.dll
+C:\WORKSPACE\SmartHome\SmartHome.Model\obj\Debug\netcoreapp3.0\SmartHome.Model.pdb

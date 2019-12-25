@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WORKSPACE\\SmartHome\\SmartHome.API\\SmartHome.API.csproj": {}
+  },
+  "projects": {
+    "C:\\WORKSPACE\\SmartHome\\SmartHome.API\\SmartHome.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORKSPACE\\SmartHome\\SmartHome.API\\SmartHome.API.csproj",
+        "projectName": "SmartHome.API",
+        "projectPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.API\\SmartHome.API.csproj",
+        "packagesPath": "C:\\Users\\do_dangvan\\.nuget\\packages\\",
+        "outputPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\do_dangvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\WORKSPACE\\SmartHome\\SmartHome.Data\\SmartHome.Data.csproj": {
+                "projectPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Data\\SmartHome.Data.csproj"
+              },
+              "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj": {
+                "projectPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WORKSPACE\\SmartHome\\SmartHome.Data\\SmartHome.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORKSPACE\\SmartHome\\SmartHome.Data\\SmartHome.Data.csproj",
+        "projectName": "SmartHome.Data",
+        "projectPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Data\\SmartHome.Data.csproj",
+        "packagesPath": "C:\\Users\\do_dangvan\\.nuget\\packages\\",
+        "outputPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\do_dangvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj": {
+                "projectPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj",
+        "projectName": "SmartHome.Model",
+        "projectPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\SmartHome.Model.csproj",
+        "packagesPath": "C:\\Users\\do_dangvan\\.nuget\\packages\\",
+        "outputPath": "C:\\WORKSPACE\\SmartHome\\SmartHome.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\do_dangvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
